@@ -12,7 +12,7 @@
 
 [![MasterHead](https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/9/57/957a8ec4-361e-5e81-bb00-936bfc457d23/59d7c951caa59.image.jpg)](https://github.com/asbisht/asbisht)
 
- <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/11ZSwQNWba4YF2">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/11ZSwQNWba4YF2">
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,8 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div style="width:100%;height:0;padding-bottom:148%;position:relative;"><iframe src="https://giphy.com/embed/Y0b2MpUTfnrUa3jIM7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/to-do-list-devrix-teamdevrix-Y0b2MpUTfnrUa3jIM7">via GIPHY</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
