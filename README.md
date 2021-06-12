@@ -12,8 +12,7 @@
 
 [![MasterHead](https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/9/57/957a8ec4-361e-5e81-bb00-936bfc457d23/59d7c951caa59.image.jpg)](https://github.com/asbisht/asbisht)
 
- <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/11ZSwQNWba4YF2 
-  here">
+ <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/11ZSwQNWba4YF2">
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
